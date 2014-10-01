@@ -1,0 +1,13 @@
+﻿빌드 시작: 2014-10-01 오후 2:33:49
+     1>3 노드의 "C:\sfmlcl2\examples\sound_capture\sound-capture.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         B:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Users\My\Desktop\SFMLsrc\SFML-master\include" /Zi /nologo /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D _CRT_SECURE_NO_DEPRECATE /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"sound-capture.dir\Debug\\" /Fd"sound-capture.dir\Debug\vc120.pdb" /Gd /TP /errorReport:prompt "C:\Users\My\Desktop\SFMLsrc\SFML-master\examples\sound_capture\SoundCapture.cpp"
+         SoundCapture.cpp
+       Link:
+         B:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\sfmlcl2\examples\sound_capture\Debug\sound-capture-d.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib "..\..\lib\Debug\sfml-audio-d.lib" "..\..\lib\Debug\sfml-system-d.lib" winmm.lib "C:\Users\My\Desktop\SFMLsrc\SFML-master\extlibs\libs-msvc\x64\openal32.lib" "C:\Users\My\Desktop\SFMLsrc\SFML-master\extlibs\libs-msvc\x64\sndfile.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/sfmlcl2/examples/sound_capture/Debug/sound-capture-d.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/sfmlcl2/examples/sound_capture/Debug/sound-capture-d.lib" /MACHINE:X64  /machine:x64 /debug "sound-capture.dir\Debug\SoundCapture.obj"
+         sound-capture.vcxproj -> C:\sfmlcl2\examples\sound_capture\Debug\sound-capture-d.exe
+     1>"C:\sfmlcl2\examples\sound_capture\sound-capture.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:01.20

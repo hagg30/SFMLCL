@@ -1,0 +1,18 @@
+# CMake generation dependency list for this directory.
+C:/Users/My/Desktop/SFMLsrc/SFML-master/src/SFML/Graphics/CMakeLists.txt
+c:/Program Files (x86)/CMake/share/cmake-3.0/Modules/FindOpenGL.cmake
+c:/Program Files (x86)/CMake/share/cmake-3.0/Modules/FindPackageHandleStandardArgs.cmake
+c:/Program Files (x86)/CMake/share/cmake-3.0/Modules/FindPackageMessage.cmake
+c:/Program Files (x86)/CMake/share/cmake-3.0/Modules/CMakeParseArguments.cmake
+C:/Users/My/Desktop/SFMLsrc/SFML-master/cmake/Modules/FindGLEW.cmake
+c:/Program Files (x86)/CMake/share/cmake-3.0/Modules/FindPackageHandleStandardArgs.cmake
+c:/Program Files (x86)/CMake/share/cmake-3.0/Modules/FindPackageMessage.cmake
+c:/Program Files (x86)/CMake/share/cmake-3.0/Modules/CMakeParseArguments.cmake
+c:/Program Files (x86)/CMake/share/cmake-3.0/Modules/FindJPEG.cmake
+c:/Program Files (x86)/CMake/share/cmake-3.0/Modules/FindPackageHandleStandardArgs.cmake
+c:/Program Files (x86)/CMake/share/cmake-3.0/Modules/FindPackageMessage.cmake
+c:/Program Files (x86)/CMake/share/cmake-3.0/Modules/CMakeParseArguments.cmake
+c:/Program Files (x86)/CMake/share/cmake-3.0/Modules/FindFreetype.cmake
+c:/Program Files (x86)/CMake/share/cmake-3.0/Modules/FindPackageHandleStandardArgs.cmake
+c:/Program Files (x86)/CMake/share/cmake-3.0/Modules/FindPackageMessage.cmake
+c:/Program Files (x86)/CMake/share/cmake-3.0/Modules/CMakeParseArguments.cmake

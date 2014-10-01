@@ -1,0 +1,34 @@
+﻿빌드 시작: 2014-10-01 오후 2:33:45
+     1>2 노드의 "C:\sfmlcl2\src\SFML\Audio\sfml-audio.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         B:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Users\My\Desktop\SFMLsrc\SFML-master\include" /I"C:\Users\My\Desktop\SFMLsrc\SFML-master\src" /I"C:\Users\My\Desktop\SFMLsrc\SFML-master\extlibs\headers\AL" /I"C:\Users\My\Desktop\SFMLsrc\SFML-master\extlibs\headers\libsndfile\windows" /Zi /nologo /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D _CRT_SECURE_NO_DEPRECATE /D "CMAKE_INTDIR=\"Debug\"" /D SFML_AUDIO_EXPORTS /D _WINDLL /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"sfml-audio.dir\Debug\\" /Fd"sfml-audio.dir\Debug\vc120.pdb" /Gd /TP /errorReport:prompt "C:\Users\My\Desktop\SFMLsrc\SFML-master\src\SFML\Audio\ALCheck.cpp" "C:\Users\My\Desktop\SFMLsrc\SFML-master\src\SFML\Audio\AudioDevice.cpp" "C:\Users\My\Desktop\SFMLsrc\SFML-master\src\SFML\Audio\Listener.cpp" "C:\Users\My\Desktop\SFMLsrc\SFML-master\src\SFML\Audio\Music.cpp" "C:\Users\My\Desktop\SFMLsrc\SFML-master\src\SFML\Audio\Sound.cpp" "C:\Users\My\Desktop\SFMLsrc\SFML-master\src\SFML\Audio\SoundBuffer.cpp" "C:\Users\My\Desktop\SFMLsrc\SFML-master\src\SFML\Audio\SoundBufferRecorder.cpp" "C:\Users\My\Desktop\SFMLsrc\SFML-master\src\SFML\Audio\SoundFile.cpp" "C:\Users\My\Desktop\SFMLsrc\SFML-master\src\SFML\Audio\SoundRecorder.cpp" "C:\Users\My\Desktop\SFMLsrc\SFML-master\src\SFML\Audio\SoundSource.cpp" "C:\Users\My\Desktop\SFMLsrc\SFML-master\src\SFML\Audio\SoundStream.cpp"
+         ALCheck.cpp
+         AudioDevice.cpp
+         Listener.cpp
+         Music.cpp
+         Sound.cpp
+         SoundBuffer.cpp
+         SoundBufferRecorder.cpp
+         SoundFile.cpp
+         SoundRecorder.cpp
+         SoundSource.cpp
+         SoundStream.cpp
+         코드를 생성하고 있습니다...
+       Link:
+         B:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\sfmlcl2\lib\Debug\sfml-audio-d-2.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib "..\..\..\lib\Debug\sfml-system-d.lib" "C:\Users\My\Desktop\SFMLsrc\SFML-master\extlibs\libs-msvc\x64\openal32.lib" "C:\Users\My\Desktop\SFMLsrc\SFML-master\extlibs\libs-msvc\x64\sndfile.lib" winmm.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/sfmlcl2/lib/Debug/sfml-audio-d.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/sfmlcl2/lib/Debug/sfml-audio-d.lib" /MACHINE:X64  /machine:x64 /debug /DLL "sfml-audio.dir\Debug\ALCheck.obj"
+         "sfml-audio.dir\Debug\AudioDevice.obj"
+         "sfml-audio.dir\Debug\Listener.obj"
+         "sfml-audio.dir\Debug\Music.obj"
+         "sfml-audio.dir\Debug\Sound.obj"
+         "sfml-audio.dir\Debug\SoundBuffer.obj"
+         "sfml-audio.dir\Debug\SoundBufferRecorder.obj"
+         "sfml-audio.dir\Debug\SoundFile.obj"
+         "sfml-audio.dir\Debug\SoundRecorder.obj"
+         "sfml-audio.dir\Debug\SoundSource.obj"
+         "sfml-audio.dir\Debug\SoundStream.obj"
+         sfml-audio.vcxproj -> C:\sfmlcl2\lib\Debug\sfml-audio-d-2.dll
+     1>"C:\sfmlcl2\src\SFML\Audio\sfml-audio.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:03.24

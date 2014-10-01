@@ -1,0 +1,405 @@
+The system is: Windows - 6.1 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+0
+Microsoft (R) Build Engine 버전 12.0.21005.1
+[Microsoft .NET Framework, 버전 4.0.30319.18444]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+빌드 시작: 2014-10-01 오후 2:26:32
+1 노드의 "C:\sfmlcl2\CMakeFiles\3.0.2\CompilerIdC\CompilerIdC.vcxproj" 프로젝트(기본 대상)입니다.
+PrepareForBuild:
+  "Debug\" 디렉터리를 만들고 있습니다.
+  "Debug\CompilerIdC.tlog\" 디렉터리를 만들고 있습니다.
+InitializeBuildStatus:
+  "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\CompilerIdC.tlog\unsuccessfulbuild"을(를) 만들고 있습니다.
+ClCompile:
+  B:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /nologo /W0 /WX- /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  B:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X64 Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> C:\sfmlcl2\CMakeFiles\3.0.2\CompilerIdC\.\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=B:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\cl.exe
+FinalizeBuildStatus:
+  "Debug\CompilerIdC.tlog\unsuccessfulbuild" 파일을 삭제하고 있습니다.
+  "Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate"에 연결(touching)하고 있습니다.
+"C:\sfmlcl2\CMakeFiles\3.0.2\CompilerIdC\CompilerIdC.vcxproj" 프로젝트를 빌드했습니다(기본 대상).
+
+빌드했습니다.
+    경고 0개
+    오류 0개
+
+경과 시간: 00:00:00.40
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "C:/sfmlcl2/CMakeFiles/3.0.2/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+0
+Microsoft (R) Build Engine 버전 12.0.21005.1
+[Microsoft .NET Framework, 버전 4.0.30319.18444]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+빌드 시작: 2014-10-01 오후 2:26:32
+1 노드의 "C:\sfmlcl2\CMakeFiles\3.0.2\CompilerIdCXX\CompilerIdCXX.vcxproj" 프로젝트(기본 대상)입니다.
+PrepareForBuild:
+  "Debug\" 디렉터리를 만들고 있습니다.
+  "Debug\CompilerIdCXX.tlog\" 디렉터리를 만들고 있습니다.
+InitializeBuildStatus:
+  "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\CompilerIdCXX.tlog\unsuccessfulbuild"을(를) 만들고 있습니다.
+ClCompile:
+  B:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /nologo /W0 /WX- /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  B:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X64 Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> C:\sfmlcl2\CMakeFiles\3.0.2\CompilerIdCXX\.\CompilerIdCXX.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=B:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\cl.exe
+FinalizeBuildStatus:
+  "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" 파일을 삭제하고 있습니다.
+  "Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate"에 연결(touching)하고 있습니다.
+"C:\sfmlcl2\CMakeFiles\3.0.2\CompilerIdCXX\CompilerIdCXX.vcxproj" 프로젝트를 빌드했습니다(기본 대상).
+
+빌드했습니다.
+    경고 0개
+    오류 0개
+
+경과 시간: 00:00:00.37
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "C:/sfmlcl2/CMakeFiles/3.0.2/CompilerIdCXX/CompilerIdCXX.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/sfmlcl2/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec1092937916.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine 버전 12.0.21005.1
+[Microsoft .NET Framework, 버전 4.0.30319.18444]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+빌드 시작: 2014-10-01 오후 2:26:33
+1 노드의 "C:\sfmlcl2\CMakeFiles\CMakeTmp\cmTryCompileExec1092937916.vcxproj" 프로젝트(기본 대상)입니다.
+PrepareForBuild:
+  "cmTryCompileExec1092937916.dir\Debug\" 디렉터리를 만들고 있습니다.
+  "C:\sfmlcl2\CMakeFiles\CMakeTmp\Debug\" 디렉터리를 만들고 있습니다.
+  "cmTryCompileExec1092937916.dir\Debug\cmTryCom.BA417F42.tlog\" 디렉터리를 만들고 있습니다.
+InitializeBuildStatus:
+  "AlwaysCreate"이(가) 지정되었기 때문에 "cmTryCompileExec1092937916.dir\Debug\cmTryCom.BA417F42.tlog\unsuccessfulbuild"을(를) 만들고 있습니다.
+ClCompile:
+  B:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec1092937916.dir\Debug\\" /Fd"cmTryCompileExec1092937916.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue testCCompiler.c
+  Microsoft (R) C/C++ 최적화 컴파일러 버전 18.00.21005.1(x64)
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec1092937916.dir\Debug\\" /Fd"cmTryCompileExec1092937916.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue testCCompiler.c
+  
+  testCCompiler.c
+Link:
+  B:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\sfmlcl2\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec1092937916.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/sfmlcl2/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec1092937916.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/sfmlcl2/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec1092937916.lib" /MACHINE:X64  /machine:x64 /debug cmTryCompileExec1092937916.dir\Debug\testCCompiler.obj
+  cmTryCompileExec1092937916.vcxproj -> C:\sfmlcl2\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec1092937916.exe
+FinalizeBuildStatus:
+  "cmTryCompileExec1092937916.dir\Debug\cmTryCom.BA417F42.tlog\unsuccessfulbuild" 파일을 삭제하고 있습니다.
+  "cmTryCompileExec1092937916.dir\Debug\cmTryCom.BA417F42.tlog\cmTryCompileExec1092937916.lastbuildstate"에 연결(touching)하고 있습니다.
+"C:\sfmlcl2\CMakeFiles\CMakeTmp\cmTryCompileExec1092937916.vcxproj" 프로젝트를 빌드했습니다(기본 대상).
+
+빌드했습니다.
+    경고 0개
+    오류 0개
+
+경과 시간: 00:00:00.37
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/sfmlcl2/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec942898636.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine 버전 12.0.21005.1
+[Microsoft .NET Framework, 버전 4.0.30319.18444]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+빌드 시작: 2014-10-01 오후 2:26:33
+1 노드의 "C:\sfmlcl2\CMakeFiles\CMakeTmp\cmTryCompileExec942898636.vcxproj" 프로젝트(기본 대상)입니다.
+PrepareForBuild:
+  "cmTryCompileExec942898636.dir\Debug\" 디렉터리를 만들고 있습니다.
+  "C:\sfmlcl2\CMakeFiles\CMakeTmp\Debug\" 디렉터리를 만들고 있습니다.
+  "cmTryCompileExec942898636.dir\Debug\cmTryCom.8CA82FEB.tlog\" 디렉터리를 만들고 있습니다.
+InitializeBuildStatus:
+  "AlwaysCreate"이(가) 지정되었기 때문에 "cmTryCompileExec942898636.dir\Debug\cmTryCom.8CA82FEB.tlog\unsuccessfulbuild"을(를) 만들고 있습니다.
+ClCompile:
+  B:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec942898636.dir\Debug\\" /Fd"cmTryCompileExec942898636.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue "c:\Program Files (x86)\CMake\share\cmake-3.0\Modules\CMakeCCompilerABI.c"
+  Microsoft (R) C/C++ 최적화 컴파일러 버전 18.00.21005.1(x64)
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec942898636.dir\Debug\\" /Fd"cmTryCompileExec942898636.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue "c:\Program Files (x86)\CMake\share\cmake-3.0\Modules\CMakeCCompilerABI.c"
+  
+  CMakeCCompilerABI.c
+Link:
+  B:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\sfmlcl2\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec942898636.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/sfmlcl2/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec942898636.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/sfmlcl2/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec942898636.lib" /MACHINE:X64  /machine:x64 /debug cmTryCompileExec942898636.dir\Debug\CMakeCCompilerABI.obj
+  cmTryCompileExec942898636.vcxproj -> C:\sfmlcl2\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec942898636.exe
+FinalizeBuildStatus:
+  "cmTryCompileExec942898636.dir\Debug\cmTryCom.8CA82FEB.tlog\unsuccessfulbuild" 파일을 삭제하고 있습니다.
+  "cmTryCompileExec942898636.dir\Debug\cmTryCom.8CA82FEB.tlog\cmTryCompileExec942898636.lastbuildstate"에 연결(touching)하고 있습니다.
+"C:\sfmlcl2\CMakeFiles\CMakeTmp\cmTryCompileExec942898636.vcxproj" 프로젝트를 빌드했습니다(기본 대상).
+
+빌드했습니다.
+    경고 0개
+    오류 0개
+
+경과 시간: 00:00:00.41
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: C:/sfmlcl2/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec3032986397.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine 버전 12.0.21005.1
+[Microsoft .NET Framework, 버전 4.0.30319.18444]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+빌드 시작: 2014-10-01 오후 2:26:34
+1 노드의 "C:\sfmlcl2\CMakeFiles\CMakeTmp\cmTryCompileExec3032986397.vcxproj" 프로젝트(기본 대상)입니다.
+PrepareForBuild:
+  "cmTryCompileExec3032986397.dir\Debug\" 디렉터리를 만들고 있습니다.
+  "C:\sfmlcl2\CMakeFiles\CMakeTmp\Debug\" 디렉터리를 만들고 있습니다.
+  "cmTryCompileExec3032986397.dir\Debug\cmTryCom.2DC62CD4.tlog\" 디렉터리를 만들고 있습니다.
+InitializeBuildStatus:
+  "AlwaysCreate"이(가) 지정되었기 때문에 "cmTryCompileExec3032986397.dir\Debug\cmTryCom.2DC62CD4.tlog\unsuccessfulbuild"을(를) 만들고 있습니다.
+ClCompile:
+  B:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec3032986397.dir\Debug\\" /Fd"cmTryCompileExec3032986397.dir\Debug\vc120.pdb" /Gd /TP /errorReport:queue testCXXCompiler.cxx
+  Microsoft (R) C/C++ 최적화 컴파일러 버전 18.00.21005.1(x64)
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec3032986397.dir\Debug\\" /Fd"cmTryCompileExec3032986397.dir\Debug\vc120.pdb" /Gd /TP /errorReport:queue testCXXCompiler.cxx
+  
+  testCXXCompiler.cxx
+Link:
+  B:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\sfmlcl2\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec3032986397.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/sfmlcl2/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3032986397.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/sfmlcl2/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3032986397.lib" /MACHINE:X64  /machine:x64 /debug cmTryCompileExec3032986397.dir\Debug\testCXXCompiler.obj
+  cmTryCompileExec3032986397.vcxproj -> C:\sfmlcl2\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec3032986397.exe
+FinalizeBuildStatus:
+  "cmTryCompileExec3032986397.dir\Debug\cmTryCom.2DC62CD4.tlog\unsuccessfulbuild" 파일을 삭제하고 있습니다.
+  "cmTryCompileExec3032986397.dir\Debug\cmTryCom.2DC62CD4.tlog\cmTryCompileExec3032986397.lastbuildstate"에 연결(touching)하고 있습니다.
+"C:\sfmlcl2\CMakeFiles\CMakeTmp\cmTryCompileExec3032986397.vcxproj" 프로젝트를 빌드했습니다(기본 대상).
+
+빌드했습니다.
+    경고 0개
+    오류 0개
+
+경과 시간: 00:00:00.37
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: C:/sfmlcl2/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec1835415009.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine 버전 12.0.21005.1
+[Microsoft .NET Framework, 버전 4.0.30319.18444]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+빌드 시작: 2014-10-01 오후 2:26:34
+1 노드의 "C:\sfmlcl2\CMakeFiles\CMakeTmp\cmTryCompileExec1835415009.vcxproj" 프로젝트(기본 대상)입니다.
+PrepareForBuild:
+  "cmTryCompileExec1835415009.dir\Debug\" 디렉터리를 만들고 있습니다.
+  "C:\sfmlcl2\CMakeFiles\CMakeTmp\Debug\" 디렉터리를 만들고 있습니다.
+  "cmTryCompileExec1835415009.dir\Debug\cmTryCom.5E2502F1.tlog\" 디렉터리를 만들고 있습니다.
+InitializeBuildStatus:
+  "AlwaysCreate"이(가) 지정되었기 때문에 "cmTryCompileExec1835415009.dir\Debug\cmTryCom.5E2502F1.tlog\unsuccessfulbuild"을(를) 만들고 있습니다.
+ClCompile:
+  B:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec1835415009.dir\Debug\\" /Fd"cmTryCompileExec1835415009.dir\Debug\vc120.pdb" /Gd /TP /errorReport:queue "c:\Program Files (x86)\CMake\share\cmake-3.0\Modules\CMakeCXXCompilerABI.cpp"
+  Microsoft (R) C/C++ 최적화 컴파일러 버전 18.00.21005.1(x64)
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec1835415009.dir\Debug\\" /Fd"cmTryCompileExec1835415009.dir\Debug\vc120.pdb" /Gd /TP /errorReport:queue "c:\Program Files (x86)\CMake\share\cmake-3.0\Modules\CMakeCXXCompilerABI.cpp"
+  
+  CMakeCXXCompilerABI.cpp
+Link:
+  B:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\sfmlcl2\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec1835415009.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/sfmlcl2/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec1835415009.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/sfmlcl2/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec1835415009.lib" /MACHINE:X64  /machine:x64 /debug cmTryCompileExec1835415009.dir\Debug\CMakeCXXCompilerABI.obj
+  cmTryCompileExec1835415009.vcxproj -> C:\sfmlcl2\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec1835415009.exe
+FinalizeBuildStatus:
+  "cmTryCompileExec1835415009.dir\Debug\cmTryCom.5E2502F1.tlog\unsuccessfulbuild" 파일을 삭제하고 있습니다.
+  "cmTryCompileExec1835415009.dir\Debug\cmTryCom.5E2502F1.tlog\cmTryCompileExec1835415009.lastbuildstate"에 연결(touching)하고 있습니다.
+"C:\sfmlcl2\CMakeFiles\CMakeTmp\cmTryCompileExec1835415009.vcxproj" 프로젝트를 빌드했습니다(기본 대상).
+
+빌드했습니다.
+    경고 0개
+    오류 0개
+
+경과 시간: 00:00:00.39
+
+
+Determining if the include file sys/types.h exists passed with the following output:
+Change Dir: C:/sfmlcl2/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec1777325969.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine 버전 12.0.21005.1
+[Microsoft .NET Framework, 버전 4.0.30319.18444]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+빌드 시작: 2014-10-01 오후 2:26:35
+1 노드의 "C:\sfmlcl2\CMakeFiles\CMakeTmp\cmTryCompileExec1777325969.vcxproj" 프로젝트(기본 대상)입니다.
+PrepareForBuild:
+  "cmTryCompileExec1777325969.dir\Debug\" 디렉터리를 만들고 있습니다.
+  "C:\sfmlcl2\CMakeFiles\CMakeTmp\Debug\" 디렉터리를 만들고 있습니다.
+  "cmTryCompileExec1777325969.dir\Debug\cmTryCom.4C285ABE.tlog\" 디렉터리를 만들고 있습니다.
+InitializeBuildStatus:
+  "AlwaysCreate"이(가) 지정되었기 때문에 "cmTryCompileExec1777325969.dir\Debug\cmTryCom.4C285ABE.tlog\unsuccessfulbuild"을(를) 만들고 있습니다.
+ClCompile:
+  B:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec1777325969.dir\Debug\\" /Fd"cmTryCompileExec1777325969.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue CheckIncludeFile.c
+  Microsoft (R) C/C++ 최적화 컴파일러 버전 18.00.21005.1(x64)
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec1777325969.dir\Debug\\" /Fd"cmTryCompileExec1777325969.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue CheckIncludeFile.c
+  
+  CheckIncludeFile.c
+Link:
+  B:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\sfmlcl2\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec1777325969.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/sfmlcl2/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec1777325969.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/sfmlcl2/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec1777325969.lib" /MACHINE:X64  /machine:x64 /debug cmTryCompileExec1777325969.dir\Debug\CheckIncludeFile.obj
+  cmTryCompileExec1777325969.vcxproj -> C:\sfmlcl2\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec1777325969.exe
+FinalizeBuildStatus:
+  "cmTryCompileExec1777325969.dir\Debug\cmTryCom.4C285ABE.tlog\unsuccessfulbuild" 파일을 삭제하고 있습니다.
+  "cmTryCompileExec1777325969.dir\Debug\cmTryCom.4C285ABE.tlog\cmTryCompileExec1777325969.lastbuildstate"에 연결(touching)하고 있습니다.
+"C:\sfmlcl2\CMakeFiles\CMakeTmp\cmTryCompileExec1777325969.vcxproj" 프로젝트를 빌드했습니다(기본 대상).
+
+빌드했습니다.
+    경고 0개
+    오류 0개
+
+경과 시간: 00:00:00.53
+
+
+Determining if the include file stdint.h exists passed with the following output:
+Change Dir: C:/sfmlcl2/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec1745785576.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine 버전 12.0.21005.1
+[Microsoft .NET Framework, 버전 4.0.30319.18444]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+빌드 시작: 2014-10-01 오후 2:26:36
+1 노드의 "C:\sfmlcl2\CMakeFiles\CMakeTmp\cmTryCompileExec1745785576.vcxproj" 프로젝트(기본 대상)입니다.
+PrepareForBuild:
+  "cmTryCompileExec1745785576.dir\Debug\" 디렉터리를 만들고 있습니다.
+  "C:\sfmlcl2\CMakeFiles\CMakeTmp\Debug\" 디렉터리를 만들고 있습니다.
+  "cmTryCompileExec1745785576.dir\Debug\cmTryCom.2565C152.tlog\" 디렉터리를 만들고 있습니다.
+InitializeBuildStatus:
+  "AlwaysCreate"이(가) 지정되었기 때문에 "cmTryCompileExec1745785576.dir\Debug\cmTryCom.2565C152.tlog\unsuccessfulbuild"을(를) 만들고 있습니다.
+ClCompile:
+  B:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec1745785576.dir\Debug\\" /Fd"cmTryCompileExec1745785576.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue CheckIncludeFile.c
+  Microsoft (R) C/C++ 최적화 컴파일러 버전 18.00.21005.1(x64)
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec1745785576.dir\Debug\\" /Fd"cmTryCompileExec1745785576.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue CheckIncludeFile.c
+  
+  CheckIncludeFile.c
+Link:
+  B:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\sfmlcl2\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec1745785576.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/sfmlcl2/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec1745785576.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/sfmlcl2/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec1745785576.lib" /MACHINE:X64  /machine:x64 /debug cmTryCompileExec1745785576.dir\Debug\CheckIncludeFile.obj
+  cmTryCompileExec1745785576.vcxproj -> C:\sfmlcl2\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec1745785576.exe
+FinalizeBuildStatus:
+  "cmTryCompileExec1745785576.dir\Debug\cmTryCom.2565C152.tlog\unsuccessfulbuild" 파일을 삭제하고 있습니다.
+  "cmTryCompileExec1745785576.dir\Debug\cmTryCom.2565C152.tlog\cmTryCompileExec1745785576.lastbuildstate"에 연결(touching)하고 있습니다.
+"C:\sfmlcl2\CMakeFiles\CMakeTmp\cmTryCompileExec1745785576.vcxproj" 프로젝트를 빌드했습니다(기본 대상).
+
+빌드했습니다.
+    경고 0개
+    오류 0개
+
+경과 시간: 00:00:00.46
+
+
+Determining if the include file stddef.h exists passed with the following output:
+Change Dir: C:/sfmlcl2/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec3939719255.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine 버전 12.0.21005.1
+[Microsoft .NET Framework, 버전 4.0.30319.18444]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+빌드 시작: 2014-10-01 오후 2:26:36
+1 노드의 "C:\sfmlcl2\CMakeFiles\CMakeTmp\cmTryCompileExec3939719255.vcxproj" 프로젝트(기본 대상)입니다.
+PrepareForBuild:
+  "cmTryCompileExec3939719255.dir\Debug\" 디렉터리를 만들고 있습니다.
+  "C:\sfmlcl2\CMakeFiles\CMakeTmp\Debug\" 디렉터리를 만들고 있습니다.
+  "cmTryCompileExec3939719255.dir\Debug\cmTryCom.DECBA9DE.tlog\" 디렉터리를 만들고 있습니다.
+InitializeBuildStatus:
+  "AlwaysCreate"이(가) 지정되었기 때문에 "cmTryCompileExec3939719255.dir\Debug\cmTryCom.DECBA9DE.tlog\unsuccessfulbuild"을(를) 만들고 있습니다.
+ClCompile:
+  B:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec3939719255.dir\Debug\\" /Fd"cmTryCompileExec3939719255.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue CheckIncludeFile.c
+  Microsoft (R) C/C++ 최적화 컴파일러 버전 18.00.21005.1(x64)
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec3939719255.dir\Debug\\" /Fd"cmTryCompileExec3939719255.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue CheckIncludeFile.c
+  
+  CheckIncludeFile.c
+Link:
+  B:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\sfmlcl2\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec3939719255.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/sfmlcl2/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3939719255.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/sfmlcl2/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3939719255.lib" /MACHINE:X64  /machine:x64 /debug cmTryCompileExec3939719255.dir\Debug\CheckIncludeFile.obj
+  cmTryCompileExec3939719255.vcxproj -> C:\sfmlcl2\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec3939719255.exe
+FinalizeBuildStatus:
+  "cmTryCompileExec3939719255.dir\Debug\cmTryCom.DECBA9DE.tlog\unsuccessfulbuild" 파일을 삭제하고 있습니다.
+  "cmTryCompileExec3939719255.dir\Debug\cmTryCom.DECBA9DE.tlog\cmTryCompileExec3939719255.lastbuildstate"에 연결(touching)하고 있습니다.
+"C:\sfmlcl2\CMakeFiles\CMakeTmp\cmTryCompileExec3939719255.vcxproj" 프로젝트를 빌드했습니다(기본 대상).
+
+빌드했습니다.
+    경고 0개
+    오류 0개
+
+경과 시간: 00:00:00.41
+
+
+Determining size of void* passed with the following output:
+Change Dir: C:/sfmlcl2/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec3465240017.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine 버전 12.0.21005.1
+[Microsoft .NET Framework, 버전 4.0.30319.18444]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+빌드 시작: 2014-10-01 오후 2:26:37
+1 노드의 "C:\sfmlcl2\CMakeFiles\CMakeTmp\cmTryCompileExec3465240017.vcxproj" 프로젝트(기본 대상)입니다.
+PrepareForBuild:
+  "cmTryCompileExec3465240017.dir\Debug\" 디렉터리를 만들고 있습니다.
+  "C:\sfmlcl2\CMakeFiles\CMakeTmp\Debug\" 디렉터리를 만들고 있습니다.
+  "cmTryCompileExec3465240017.dir\Debug\cmTryCom.44B1FAEE.tlog\" 디렉터리를 만들고 있습니다.
+InitializeBuildStatus:
+  "AlwaysCreate"이(가) 지정되었기 때문에 "cmTryCompileExec3465240017.dir\Debug\cmTryCom.44B1FAEE.tlog\unsuccessfulbuild"을(를) 만들고 있습니다.
+ClCompile:
+  B:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec3465240017.dir\Debug\\" /Fd"cmTryCompileExec3465240017.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue C:\sfmlcl2\CMakeFiles\CheckTypeSize\SIZEOF_VOID_PTR.c
+  Microsoft (R) C/C++ 최적화 컴파일러 버전 18.00.21005.1(x64)
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec3465240017.dir\Debug\\" /Fd"cmTryCompileExec3465240017.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue C:\sfmlcl2\CMakeFiles\CheckTypeSize\SIZEOF_VOID_PTR.c
+  
+  SIZEOF_VOID_PTR.c
+Link:
+  B:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\sfmlcl2\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec3465240017.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/sfmlcl2/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3465240017.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/sfmlcl2/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3465240017.lib" /MACHINE:X64  /machine:x64 /debug cmTryCompileExec3465240017.dir\Debug\SIZEOF_VOID_PTR.obj
+  cmTryCompileExec3465240017.vcxproj -> C:\sfmlcl2\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec3465240017.exe
+FinalizeBuildStatus:
+  "cmTryCompileExec3465240017.dir\Debug\cmTryCom.44B1FAEE.tlog\unsuccessfulbuild" 파일을 삭제하고 있습니다.
+  "cmTryCompileExec3465240017.dir\Debug\cmTryCom.44B1FAEE.tlog\cmTryCompileExec3465240017.lastbuildstate"에 연결(touching)하고 있습니다.
+"C:\sfmlcl2\CMakeFiles\CMakeTmp\cmTryCompileExec3465240017.vcxproj" 프로젝트를 빌드했습니다(기본 대상).
+
+빌드했습니다.
+    경고 0개
+    오류 0개
+
+경과 시간: 00:00:00.43
+
+

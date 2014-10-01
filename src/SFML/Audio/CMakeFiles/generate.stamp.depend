@@ -1,0 +1,10 @@
+# CMake generation dependency list for this directory.
+C:/Users/My/Desktop/SFMLsrc/SFML-master/src/SFML/Audio/CMakeLists.txt
+c:/Program Files (x86)/CMake/share/cmake-3.0/Modules/FindOpenAL.cmake
+c:/Program Files (x86)/CMake/share/cmake-3.0/Modules/FindPackageHandleStandardArgs.cmake
+c:/Program Files (x86)/CMake/share/cmake-3.0/Modules/FindPackageMessage.cmake
+c:/Program Files (x86)/CMake/share/cmake-3.0/Modules/CMakeParseArguments.cmake
+C:/Users/My/Desktop/SFMLsrc/SFML-master/cmake/Modules/FindSndfile.cmake
+c:/Program Files (x86)/CMake/share/cmake-3.0/Modules/FindPackageHandleStandardArgs.cmake
+c:/Program Files (x86)/CMake/share/cmake-3.0/Modules/FindPackageMessage.cmake
+c:/Program Files (x86)/CMake/share/cmake-3.0/Modules/CMakeParseArguments.cmake

@@ -1,0 +1,13 @@
+﻿빌드 시작: 2014-10-01 오후 2:33:42
+     1>3 노드의 "C:\sfmlcl2\src\SFML\Main\sfml-main.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         B:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Users\My\Desktop\SFMLsrc\SFML-master\include" /I"C:\Users\My\Desktop\SFMLsrc\SFML-master\src" /Zi /nologo /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D _CRT_SECURE_NO_DEPRECATE /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"sfml-main.dir\Debug\\" /Fd"sfml-main.dir\Debug\vc120.pdb" /Gd /TP /errorReport:prompt "C:\Users\My\Desktop\SFMLsrc\SFML-master\src\SFML\Main\MainWin32.cpp"
+         MainWin32.cpp
+       Lib:
+         B:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\Lib.exe /OUT:"C:\sfmlcl2\lib\Debug\sfml-main-d.lib" /NOLOGO /MACHINE:X64 "sfml-main.dir\Debug\MainWin32.obj"
+         sfml-main.vcxproj -> C:\sfmlcl2\lib\Debug\sfml-main-d.lib
+     1>"C:\sfmlcl2\src\SFML\Main\sfml-main.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.51

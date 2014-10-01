@@ -1,0 +1,14 @@
+﻿빌드 시작: 2014-10-01 오후 2:34:02
+     1>4 노드의 "C:\sfmlcl2\examples\pong\pong.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         B:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Users\My\Desktop\SFMLsrc\SFML-master\include" /Zi /nologo /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D _CRT_SECURE_NO_DEPRECATE /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"pong.dir\Debug\\" /Fd"pong.dir\Debug\vc120.pdb" /Gd /TP /errorReport:prompt "C:\Users\My\Desktop\SFMLsrc\SFML-master\examples\pong\Pong.cpp"
+         Pong.cpp
+     1>C:\Users\My\Desktop\SFMLsrc\SFML-master\include\SFML/Window/Sensor.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+       Link:
+         B:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\sfmlcl2\examples\pong\Debug\pong-d.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib "..\..\lib\Debug\sfml-main-d.lib" "..\..\lib\Debug\sfml-audio-d.lib" "..\..\lib\Debug\sfml-graphics-d.lib" "..\..\lib\Debug\sfml-window-d.lib" "..\..\lib\Debug\sfml-system-d.lib" "C:\Users\My\Desktop\SFMLsrc\SFML-master\extlibs\libs-msvc\x64\openal32.lib" "C:\Users\My\Desktop\SFMLsrc\SFML-master\extlibs\libs-msvc\x64\sndfile.lib" gdi32.lib winmm.lib "C:\Users\My\Desktop\SFMLsrc\SFML-master\extlibs\libs-msvc\x64\glew.lib" opengl32.lib "C:\Users\My\Desktop\SFMLsrc\SFML-master\extlibs\libs-msvc\x64\freetype.lib" "C:\Users\My\Desktop\SFMLsrc\SFML-master\extlibs\libs-msvc\x64\jpeg.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/sfmlcl2/examples/pong/Debug/pong-d.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/sfmlcl2/examples/pong/Debug/pong-d.lib" /MACHINE:X64  /machine:x64 /debug pong.dir\Debug\Pong.obj
+         pong.vcxproj -> C:\sfmlcl2\examples\pong\Debug\pong-d.exe
+     1>"C:\sfmlcl2\examples\pong\pong.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:01.29

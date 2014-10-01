@@ -1,0 +1,74 @@
+﻿빌드 시작: 2014-10-01 오후 2:33:53
+     1>4 노드의 "C:\sfmlcl2\src\SFML\Graphics\sfml-graphics.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         B:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Users\My\Desktop\SFMLsrc\SFML-master\include" /I"C:\Users\My\Desktop\SFMLsrc\SFML-master\src" /I"C:\Users\My\Desktop\SFMLsrc\SFML-master\extlibs\headers" /I"C:\Users\My\Desktop\SFMLsrc\SFML-master\extlibs\headers\jpeg" /I"C:\Users\My\Desktop\SFMLsrc\SFML-master\extlibs\headers\libfreetype\windows" /Zi /nologo /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D _CRT_SECURE_NO_DEPRECATE /D GLEW_STATIC /D STBI_FAILURE_USERMSG /D "CMAKE_INTDIR=\"Debug\"" /D SFML_GRAPHICS_EXPORTS /D _WINDLL /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"sfml-graphics.dir\Debug\\" /Fd"sfml-graphics.dir\Debug\vc120.pdb" /Gd /TP /errorReport:prompt "C:\Users\My\Desktop\SFMLsrc\SFML-master\src\SFML\Graphics\BlendMode.cpp" "C:\Users\My\Desktop\SFMLsrc\SFML-master\src\SFML\Graphics\Color.cpp" "C:\Users\My\Desktop\SFMLsrc\SFML-master\src\SFML\Graphics\Font.cpp" "C:\Users\My\Desktop\SFMLsrc\SFML-master\src\SFML\Graphics\GLCheck.cpp" "C:\Users\My\Desktop\SFMLsrc\SFML-master\src\SFML\Graphics\GLExtensions.cpp" "C:\Users\My\Desktop\SFMLsrc\SFML-master\src\SFML\Graphics\Image.cpp" "C:\Users\My\Desktop\SFMLsrc\SFML-master\src\SFML\Graphics\ImageLoader.cpp" "C:\Users\My\Desktop\SFMLsrc\SFML-master\src\SFML\Graphics\RenderStates.cpp" "C:\Users\My\Desktop\SFMLsrc\SFML-master\src\SFML\Graphics\RenderTexture.cpp" "C:\Users\My\Desktop\SFMLsrc\SFML-master\src\SFML\Graphics\RenderTarget.cpp" "C:\Users\My\Desktop\SFMLsrc\SFML-master\src\SFML\Graphics\RenderWindow.cpp" "C:\Users\My\Desktop\SFMLsrc\SFML-master\src\SFML\Graphics\Shader.cpp" "C:\Users\My\Desktop\SFMLsrc\SFML-master\src\SFML\Graphics\Texture.cpp" "C:\Users\My\Desktop\SFMLsrc\SFML-master\src\SFML\Graphics\TextureSaver.cpp" "C:\Users\My\Desktop\SFMLsrc\SFML-master\src\SFML\Graphics\Transform.cpp" "C:\Users\My\Desktop\SFMLsrc\SFML-master\src\SFML\Graphics\Transformable.cpp" "C:\Users\My\Desktop\SFMLsrc\SFML-master\src\SFML\Graphics\View.cpp" "C:\Users\My\Desktop\SFMLsrc\SFML-master\src\SFML\Graphics\Vertex.cpp" "C:\Users\My\Desktop\SFMLsrc\SFML-master\src\SFML\Graphics\Shape.cpp" "C:\Users\My\Desktop\SFMLsrc\SFML-master\src\SFML\Graphics\CircleShape.cpp" "C:\Users\My\Desktop\SFMLsrc\SFML-master\src\SFML\Graphics\RectangleShape.cpp" "C:\Users\My\Desktop\SFMLsrc\SFML-master\src\SFML\Graphics\ConvexShape.cpp" "C:\Users\My\Desktop\SFMLsrc\SFML-master\src\SFML\Graphics\Sprite.cpp" "C:\Users\My\Desktop\SFMLsrc\SFML-master\src\SFML\Graphics\Text.cpp" "C:\Users\My\Desktop\SFMLsrc\SFML-master\src\SFML\Graphics\VertexArray.cpp" "C:\Users\My\Desktop\SFMLsrc\SFML-master\src\SFML\Graphics\RenderTextureImpl.cpp" "C:\Users\My\Desktop\SFMLsrc\SFML-master\src\SFML\Graphics\RenderTextureImplFBO.cpp" "C:\Users\My\Desktop\SFMLsrc\SFML-master\src\SFML\Graphics\RenderTextureImplDefault.cpp"
+         BlendMode.cpp
+         Color.cpp
+         Font.cpp
+         GLCheck.cpp
+         GLExtensions.cpp
+         Image.cpp
+         ImageLoader.cpp
+     1>C:\Users\My\Desktop\SFMLsrc\SFML-master\src\SFML/Graphics/stb_image/stb_image.h(760): warning C4244: '초기화 중' : '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>C:\Users\My\Desktop\SFMLsrc\SFML-master\src\SFML/Graphics/stb_image/stb_image.h(773): warning C4244: '초기화 중' : '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>C:\Users\My\Desktop\SFMLsrc\SFML-master\src\SFML/Graphics/stb_image/stb_image_write.h(321): warning C4244: '초기화 중' : '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+         RenderStates.cpp
+         RenderTexture.cpp
+         RenderTarget.cpp
+         RenderWindow.cpp
+         Shader.cpp
+         Texture.cpp
+         TextureSaver.cpp
+         Transform.cpp
+         Transformable.cpp
+         View.cpp
+         Vertex.cpp
+         Shape.cpp
+         CircleShape.cpp
+         코드를 생성하고 있습니다...
+         컴파일하고 있습니다...
+         RectangleShape.cpp
+         ConvexShape.cpp
+         Sprite.cpp
+         Text.cpp
+         VertexArray.cpp
+         RenderTextureImpl.cpp
+         RenderTextureImplFBO.cpp
+         RenderTextureImplDefault.cpp
+         코드를 생성하고 있습니다...
+       Link:
+         B:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\sfmlcl2\lib\Debug\sfml-graphics-d-2.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib "..\..\..\lib\Debug\sfml-window-d.lib" "..\..\..\lib\Debug\sfml-system-d.lib" "C:\Users\My\Desktop\SFMLsrc\SFML-master\extlibs\libs-msvc\x64\glew.lib" opengl32.lib "C:\Users\My\Desktop\SFMLsrc\SFML-master\extlibs\libs-msvc\x64\freetype.lib" "C:\Users\My\Desktop\SFMLsrc\SFML-master\extlibs\libs-msvc\x64\jpeg.lib" winmm.lib gdi32.lib opengl32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/sfmlcl2/lib/Debug/sfml-graphics-d.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/sfmlcl2/lib/Debug/sfml-graphics-d.lib" /MACHINE:X64  /machine:x64 /debug /DLL "sfml-graphics.dir\Debug\BlendMode.obj"
+         "sfml-graphics.dir\Debug\Color.obj"
+         "sfml-graphics.dir\Debug\Font.obj"
+         "sfml-graphics.dir\Debug\GLCheck.obj"
+         "sfml-graphics.dir\Debug\GLExtensions.obj"
+         "sfml-graphics.dir\Debug\Image.obj"
+         "sfml-graphics.dir\Debug\ImageLoader.obj"
+         "sfml-graphics.dir\Debug\RenderStates.obj"
+         "sfml-graphics.dir\Debug\RenderTexture.obj"
+         "sfml-graphics.dir\Debug\RenderTarget.obj"
+         "sfml-graphics.dir\Debug\RenderWindow.obj"
+         "sfml-graphics.dir\Debug\Shader.obj"
+         "sfml-graphics.dir\Debug\Texture.obj"
+         "sfml-graphics.dir\Debug\TextureSaver.obj"
+         "sfml-graphics.dir\Debug\Transform.obj"
+         "sfml-graphics.dir\Debug\Transformable.obj"
+         "sfml-graphics.dir\Debug\View.obj"
+         "sfml-graphics.dir\Debug\Vertex.obj"
+         "sfml-graphics.dir\Debug\Shape.obj"
+         "sfml-graphics.dir\Debug\CircleShape.obj"
+         "sfml-graphics.dir\Debug\RectangleShape.obj"
+         "sfml-graphics.dir\Debug\ConvexShape.obj"
+         "sfml-graphics.dir\Debug\Sprite.obj"
+         "sfml-graphics.dir\Debug\Text.obj"
+         "sfml-graphics.dir\Debug\VertexArray.obj"
+         "sfml-graphics.dir\Debug\RenderTextureImpl.obj"
+         "sfml-graphics.dir\Debug\RenderTextureImplFBO.obj"
+         "sfml-graphics.dir\Debug\RenderTextureImplDefault.obj"
+            C:/sfmlcl2/lib/Debug/sfml-graphics-d.lib 라이브러리 및 C:/sfmlcl2/lib/Debug/sfml-graphics-d.exp 개체를 생성하고 있습니다.
+         sfml-graphics.vcxproj -> C:\sfmlcl2\lib\Debug\sfml-graphics-d-2.dll
+     1>"C:\sfmlcl2\src\SFML\Graphics\sfml-graphics.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:09.44

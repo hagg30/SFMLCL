@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="Windows-1252"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\My\Desktop\SFMLsrc\SFML-master\examples\sockets\Sockets.cpp" />
+    <ClCompile Include="C:\Users\My\Desktop\SFMLsrc\SFML-master\examples\sockets\TCP.cpp" />
+    <ClCompile Include="C:\Users\My\Desktop\SFMLsrc\SFML-master\examples\sockets\UDP.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\My\Desktop\SFMLsrc\SFML-master\examples\sockets\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
